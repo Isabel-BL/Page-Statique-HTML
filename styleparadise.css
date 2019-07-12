@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 1287px;
+}
+h1,h2 {text-align: justify;
+  
+    width: 50%;
+   margin-left:330px; 
+   margin-top:50px; 
+    font-size:35px; 
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+#top {
+        margin-top:8%; 
+}
+.paragraphebig{  text-align:justify;
+    width: 50%;
+    margin-left:330px; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}   
+
+
+.para { display:block;margin-left:auto;
+          margin-right:auto;
+   
+}
+
+.bannier{  
+        border-bottom: 2px solid rgb(221, 216, 216);
+  
+}
+.button {   float:right;
+
+}
+
+.button1{
+    float:right;
+    margin-right: 10%;
+}
+
+.med {  
+        display:inline;
+         margin-bottom:50px; 
+        float: left;
+        
+}
+
+.harrys {   display:block;margin-left: 300px;
+         margin-right:auto;           
+}
+
+
+.har { border-radius:50px;
+}
+.menu { text-align: center;
+        color: gray;
+}
+
+#menu { color: gray;
+    display: block;
+    list-style-type: none ;
+    padding: 20px 100px;
+    text-align: center;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+.ombre {
+    box-shadow: 0px 2px 3px gray;
+}
+
+
+#ok {   padding: 10% 0%;
+        margin-left:25%; 
+}
+.motcle {
+        display: inline-block;
+        padding: 3px 10px;
+        background-color:grey;
+        border-radius:4px;
+}
+
+#section{
+    width: 60%; display: flex; margin: auto;
+}
+#follow2 { width: 50%; border: 2px solid red;
+            
+}
+    #follow2 img{
+        float:left;
+    }
+#follow2-1{ width: 50%;
+            padding:10px 20px;
+            margin-left: 10%;
+}
+.bloc {
+         display: flex;
+         width: 80%; 
+         justify-content: space-between; border: 2px solid red;
+         margin: auto;
+         
+}
+
+#mmm {
+        width: 33%;
+}
